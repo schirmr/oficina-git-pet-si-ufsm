@@ -53,6 +53,7 @@ Siga as mesmas boas práticas para fazer os commits.
 ## Dê seu feedback
 - Crie uma nova branch para fazer dar um feedback da oficina.
 - Crie um arquivo com o seu nome dentro da pasta `feedbacks` e escreva o seu feedback sobre a oficina. 
+  - Você pode destacar os pontos que gostou e aqueles que melhoraria. 
 - "Commite" e faça um `push` as alterações.
 - Por fim, crie um [`pull request`](https://www.freecodecamp.org/portuguese/news/como-fazer-o-seu-primeiro-pull-request-no-github/) (siga a partir do passo 6).
 
